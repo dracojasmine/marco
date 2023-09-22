@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_94be3000-dbc9-4a7f-98ca-b6af934957bb
+    project-id: project_fde90f47-6833-40b7-bd3d-7a12adfa74b4
+    project-name: marco
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_60059057-441a-42ae-ac9b-ee63c0837af1
+    project-id: project_fde90f47-6833-40b7-bd3d-7a12adfa74b4
+    project-name: marco
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

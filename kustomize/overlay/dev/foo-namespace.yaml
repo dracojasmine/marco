@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_eb6cb5bb-0591-487f-b11b-328f22a4910a
+    project-id: project_fde90f47-6833-40b7-bd3d-7a12adfa74b4
+    project-name: marco
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
