@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hey
+  labels:
+    environment-id: env_31fc8561-e850-4054-8e3f-dde7a33fddad
+    project-id: project_fde90f47-6833-40b7-bd3d-7a12adfa74b4
+    project-name: marco
+    environment-name: test
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
